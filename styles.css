@@ -1,3 +1,19 @@
+ol{
+    position: relative;
+}
 .milk1{
+    position: absolute;
     width: 4rem;
+    top:-5.8rem;
+    bottom: 0;
+    left: 1rem;
+    right: 0;
+}
+.milk2{
+    position: absolute;
+    width: 4rem;
+    top: 10rem;
+    bottom: 0;
+    left: 15rem;
+    right: 0;
 }
